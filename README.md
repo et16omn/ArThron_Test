@@ -2,7 +2,8 @@
 
 Welcome! This is the repository for AR project called Arthron. The application requiers an android telephone that is compatible with ARCore. 
 
-## DEMO
+## About
+The program is a first prototype of the Arthron AR-interaction. When running the application the user is instructe to perform a hand exercise.This is but a first draft and a proof of concept. 
 
 ## How to use this project?
 
